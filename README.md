@@ -20,7 +20,7 @@ Uma aplicação web que identifica a bandeira de cartões de crédito (Visa, Mas
 
 ## Como Usar
 
-1. Acesse a página [https://seu-usuario.github.io/credit-card-flag-identifier/](https://github.com/HerivaldoJr/Dio_Validador/blob/main/index.html]([https://seu-usuario.github.io/credit-card-flag-identifier/](https://github.com/HerivaldoJr/Dio_Validador/blob/main/index.html/)
+1. Acesse a página [[https://seu-usuario.github.io/credit-card-flag-identifier/](https://herivaldojr.github.io/Dio_Validador/)]
 2. Digite o número do cartão no campo indicado
 3. A bandeira será identificada automaticamente
 4. Clique em "Identificar Bandeira" para confirmar
